@@ -86,7 +86,7 @@ Gantilah nama file dan path gambar sesuai kebutuhan.
 
 ## 🤝 Kontribusi
 
-Silahkan fork, edit, dan lakukan pull request jika ingin berkontribusi.
+fork, edit, dan pull request terbuka hehe.
 
 ---
 
